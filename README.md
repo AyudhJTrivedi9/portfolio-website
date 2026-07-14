@@ -4,7 +4,7 @@ A modern, responsive, and interactive personal portfolio website showcasing my p
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio:** https://ayudhjtrivedi9.github.io/ayudh-trivedi-portfolio-v4/
+[🔗 **Portfolio:** https://ayudhjtrivedi9.github.io/ayudh-trivedi-portfolio-v4/](https://ayudhjtrivedi9.github.io/portfolio-website/)
 
 ## 📸 Preview
 
